@@ -1,1 +1,1 @@
-Test "Testing merge";
+Test "Testing merging";
